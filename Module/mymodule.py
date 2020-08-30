@@ -2,3 +2,4 @@
 def my_func():
 	print("Hey I am Swati from my module.py")
 	print("Trying GIt")
+	print("1st commit")
